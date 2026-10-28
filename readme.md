@@ -211,6 +211,7 @@
 
 ### HTTP
 
+- [fetch-retry-jitter](https://github.com/Yearnless/fetch-retry-jitter) - Zero-dependency fetch wrapper with exponential backoff, full jitter, circuit breaker, request deduplication, Retry-After support, and per-attempt timeout. 1.6 KB gzip.
 - [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
 - [undici](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
 - [ky-universal](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
@@ -495,7 +496,7 @@
 - [Superstruct](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 - [yup](https://github.com/jquense/yup) - Object schema validation.
 - [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
-
+- [env-assert-typed](https://github.com/Yearnless/env-assert-typed) - Zero-dependency typed environment variable parser with automatic TypeScript inference, coerce/refine/transform, factory defaults. 528 B gzip.
 ### Parsing
 
 - [remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
